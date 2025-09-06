@@ -1,0 +1,13 @@
+
+As an expert in IT support, review this ticket carefully:
+Title: {ticket.title}
+Description: {ticket.description}
+Module: {ticket.module}
+
+Your output must include:
+- Summary (about 50–75 words)
+- Priority (L1, L2, or L3 and its severity: Critical, High, Medium, Low, or Planning)
+- Category (choose one appropriate category: Core Services & Backend services, Product Development & UX, Platform & Infra, Data & System Management)
+- Solution (single sentence fix or recommendation)
+
+Be precise. No extra wording, explanations, or formatting. Respond with only what is asked above.

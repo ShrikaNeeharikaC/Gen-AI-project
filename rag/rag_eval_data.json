@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Why did my Jenkins deploy fail?",
+    "contexts": [],
+    "answer": "I apologize, but I encountered an error processing your request. Please try again or rephrase your question.",
+    "ground_truth": ""
+  },
+  {
+    "question": "Why did my GitLab CI test fail intermittently?",
+    "contexts": [],
+    "answer": "I apologize, but I encountered an error processing your request. Please try again or rephrase your question.",
+    "ground_truth": ""
+  }
+]

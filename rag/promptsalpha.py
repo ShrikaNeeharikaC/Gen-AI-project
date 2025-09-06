@@ -281,8 +281,8 @@ GROUND_TRUTH = [
 
 ]
 # 4. Azure OpenAI setup
-os.environ["OPENAI_API_KEY"] = "1eMZ4Wptb1r8d3JO66DFyEc1wxs9iZyDRXhA2y371SBZGX9PUNlyJQQJ99BFACYeBjFXJ3w3AAABACOGhuqi"
-os.environ["AZURE_OPENAI_API_KEY"] = "1eMZ4Wptb1r8d3JO66DFyEc1wxs9iZyDRXhA2y371SBZGX9PUNlyJQQJ99BFACYeBjFXJ3w3AAABACOGhuqi"
+os.environ["OPENAI_API_KEY"] = "YOUR_KEY_HERE"
+os.environ["AZURE_OPENAI_API_KEY"] = "YOUR_KEY_HERE"
 os.environ["AZURE_OPENAI_ENDPOINT"] = "https://intern-openai-demo.openai.azure.com/"
 os.environ["OPENAI_API_VERSION"] = "2024-12-01-preview"
 

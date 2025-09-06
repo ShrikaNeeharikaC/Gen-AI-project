@@ -12,7 +12,7 @@ pd.set_option('display.max_columns', None)   # Display all columns
 pd.set_option('display.width', 1000) 
 
 # ---------- Configure Azure OpenAI for GPT-4.1 mini ----------
-os.environ["AZURE_OPENAI_API_KEY"] = "1eMZ4Wptb1r8d3JO66DFyEc1wxs9iZyDRXhA2y371SBZGX9PUNlyJQQJ99BFACYeBjFXJ3w3AAABACOGhuqi"
+os.environ["AZURE_OPENAI_API_KEY"] = "YOUR_KEY_HERE"
 os.environ["AZURE_OPENAI_ENDPOINT"] = "https://intern-openai-demo.openai.azure.com/"
 os.environ["OPENAI_API_VERSION"] = "2024-12-01-preview"
 # Fallback key for embeddings if needed

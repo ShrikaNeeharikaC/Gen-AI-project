@@ -32,7 +32,7 @@ class CICDRagEvaluator:
             self.knowledge_index = chatbot.knowledge_index
         else:
             # Use your exact Elasticsearch Cloud configuration
-            api_key_decoded = base64.b64decode("SEtWQlVKY0JRLUE2QldTNnB3c0U6TXJ6a1dKZ0xIQ01fTndYNWtLRVhhdw==").decode('utf-8')
+            api_key_decoded = base64.b64decode("YOUR_KEY_HERE").decode('utf-8')
             key_parts = api_key_decoded.split(':')
             self.api_key_id = key_parts[0]
             self.api_key_secret = key_parts[1]
